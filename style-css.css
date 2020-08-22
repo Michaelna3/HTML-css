@@ -1,0 +1,19 @@
+.blue-with-border {
+	background: blue;
+	color: white;
+	border: 2px black dashed;
+	margin-bottom: 50px;
+}
+#second-paragraph {
+	background: red;
+	color: white;
+	/*margin: 50px;*/
+	/*margin-left: 30px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 150px;*/
+	/*margin: 50px 100px 150px 30px;*/
+	margin-bottom: 200px;
+	padding: 20px 50px 10px 40px;
+	width: 200px;
+}
